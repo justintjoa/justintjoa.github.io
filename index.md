@@ -2,7 +2,6 @@
 
 ---
 
-### Category Name 1 
 
 [HUD angle for AR Networking app](https://github.com/justintjoa/HUDtrackercode)
 <img src="images/HUD.jpg?raw=true"/>
