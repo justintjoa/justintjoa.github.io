@@ -4,26 +4,30 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[HUD angle for AR Networking app](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Entire AR Networking app code](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[CS48 University Club Rater project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Original Prototype of Triple Exponential Smoothing (actual model is NDA)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](https://github.com/justintjoa/HUDtrackercode)
+- [Project 2 Title](https://github.com/ghesebull/sbhacks-2019-project)
+- [Project 3 Title](https://github.com/justintjoa/CS48mystuff)
+- [Project 4 Title](https://github.com/justintjoa/Cloud-ML-Model-.git)
 
 ---
 
