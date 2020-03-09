@@ -12,6 +12,7 @@
 
 ---
 [CS48 University Club Rater Project Website](https://clubselector-2394a.firebaseapp.com)
+
 [CS48 University Club Rater Project Website Code](https://github.com/NathanWoo/CS48.git)
 <img src="images/clubs.jpg?raw=true"/>
 
