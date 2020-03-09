@@ -11,7 +11,7 @@
 <img src="images/networking.jpg?raw=true"/>
 
 ---
-[CS48 University Club Rater project](https://github.com/justintjoa/CS48mystuff)
+[CS48 University Club Rater project](https://github.com/NathanWoo/CS48.git)
 <img src="images/clubs.jpg?raw=true"/>
 
 ---
