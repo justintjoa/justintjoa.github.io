@@ -1,7 +1,7 @@
 title: Justin Tjoa # your name (or website title) here
 logo: "/images/face.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Aspiring Software Engineer and Biomedical Solutions Enthusiast.<br>
+  <br>Aspiring Software Engineer and Biomedical Solutions Enthusiast.<br/>
   <a href="https://www.linkedin.com/in/justin-tjoa-34697bbb/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
