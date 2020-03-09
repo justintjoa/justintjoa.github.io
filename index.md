@@ -17,7 +17,7 @@
 
 ---
 
-[Original Prototype of Triple Exponential Smoothing](https://github.com/justintjoa/Cloud-ML-Model-.git)
+[Triple Exponential Smoothing Prototype](https://github.com/justintjoa/Cloud-ML-Model-.git)
 <img src="images/predict.jpg?raw=true"/>
 
 ---
