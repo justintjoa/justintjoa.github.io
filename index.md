@@ -21,6 +21,20 @@
 <img src="images/predict.jpg?raw=true"/>
 
 ---
+[Tagoose Mobile App code](https://github.com/TagooseCode/MobileEnd.git)
+<img src="images/predict.jpg?raw=true"/>
+
+[Tagoose Mobile App Back-end code](https://github.com/TagooseCode/BackEnd.git)
+<img src="images/predict.jpg?raw=true"/>
+
+[Tagoose Machine-learning Model Code](https://github.com/TagooseCode/Machine-Learning-End.git)
+<img src="images/predict.jpg?raw=true"/>
+
+[Tagoose User Website Code](https://github.com/TagooseCode/Website.git)
+<img src="images/predict.jpg?raw=true"/>
+
+[Tagoose User Website Back-end Code](https://github.com/TagooseCode/Website-backend.git)
+<img src="images/predict.jpg?raw=true"/>
 
 
 
